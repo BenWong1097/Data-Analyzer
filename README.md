@@ -23,3 +23,6 @@ The Data Analyzer utilizes MATLAB to extract statistics and generate graphs from
 
 # Authors
 - Benjamin Wong
+
+# License
+- This project is licensed under the [MIT License](/LICENSE.md)
