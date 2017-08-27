@@ -20,3 +20,6 @@ The Data Analyzer utilizes MATLAB to extract statistics and generate graphs from
 ## External Functions:
 - e_print.m: Takes in a string, and prints it in orange text, pausing afterwards. It allows the user to be aware of a warning/error due to generally invalid input.
 - flex_grapher.m: Takes in a plotting function’s name as a string and an array containing data. It asks which column data should be plotted and checks for invalid input.
+
+# Authors
+- Benjamin Wong
